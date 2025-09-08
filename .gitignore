@@ -1,0 +1,4 @@
+# This .gitignore file is tailored for Unity projects.
+[Ll]ibrary/
+[Ll]ogs/
+UserSettings/
